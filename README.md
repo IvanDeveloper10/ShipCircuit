@@ -57,10 +57,10 @@ The circuit has one LED controlled by a potentiometer while the other 3 LEDs are
 
 ```
 
-flashdot/
+ShipCircuit/
 ├── kicad/         → KiCad project
 ├── gerbers/       → Gerber + drill files (for fabrication)
-├── imgs/          → Screenshots: schematic, PCB, 3D views
+├── images/          → Screenshots: schematic, PCB, 3D views
 └── README.md      → You’re here!
 
 ```
